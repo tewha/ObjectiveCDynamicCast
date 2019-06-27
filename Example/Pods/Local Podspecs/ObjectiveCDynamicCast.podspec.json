@@ -1,0 +1,22 @@
+{
+  "name": "ObjectiveCDynamicCast",
+  "version": "0.1.0",
+  "summary": "A short description of ObjectiveCDynamicCast.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Steven Fisher/ObjectiveCDynamicCast",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Steven Fisher": "tewha@me.com"
+  },
+  "source": {
+    "git": "https://github.com/Steven Fisher/ObjectiveCDynamicCast.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ObjectiveCDynamicCast/Classes/**/*"
+}

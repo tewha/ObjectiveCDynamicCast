@@ -1,0 +1,6 @@
+framework module ObjectiveCDynamicCast {
+  umbrella header "ObjectiveCDynamicCast-umbrella.h"
+
+  export *
+  module * { export * }
+}

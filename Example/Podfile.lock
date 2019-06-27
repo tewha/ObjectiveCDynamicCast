@@ -1,0 +1,16 @@
+PODS:
+  - ObjectiveCDynamicCast (0.1.0)
+
+DEPENDENCIES:
+  - ObjectiveCDynamicCast (from `../`)
+
+EXTERNAL SOURCES:
+  ObjectiveCDynamicCast:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ObjectiveCDynamicCast: 22613251d3e3890d919c9f2b19ad1132e4dcfedc
+
+PODFILE CHECKSUM: a5433dd5d4a0c85807c8436ebb5476503af151b8
+
+COCOAPODS: 1.6.0
